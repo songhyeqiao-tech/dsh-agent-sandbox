@@ -1,2 +1,2 @@
-Helo world
+Hello world
 This file exists only for a low-cost demo.
